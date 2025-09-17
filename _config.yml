@@ -252,10 +252,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _recommendations
   - scope:
       path: ""
-      type: teaching
+      type: recommendations
     values:
       layout: single
       author_profile: true

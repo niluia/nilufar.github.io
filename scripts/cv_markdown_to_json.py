@@ -306,34 +306,35 @@ def parse_talks(talks_dir):
     
     return talks
 
-def parse_teaching(teaching_dir):
-    """Parse teaching from the _teaching directory."""
-    teaching = []
-    
-    if not os.path.exists(teaching_dir):
-        return teaching
-    
-    for teaching_file in sorted(glob.glob(os.path.join(teaching_dir, "*.md"))):
-        with open(teaching_file, 'r', encoding='utf-8') as file:
+
+def parse_recommendations(recommendations_dir):
+    """Parse recommendations from the _recommendations directory."""
+    recommendations = []
+
+    if not os.path.exists(recommendations_dir):
+        return recommendations
+
+    for rec_file in sorted(glob.glob(os.path.join(recommendations_dir, "*.md"))):
+        with open(rec_file, 'r', encoding='utf-8') as file:
             content = file.read()
-        
+
         # Extract front matter
         front_matter_match = re.match(r'^---\s*(.*?)\s*---', content, re.DOTALL)
         if front_matter_match:
             front_matter = yaml.safe_load(front_matter_match.group(1))
-            
-            # Extract teaching details
-            teaching_entry = {
-                "course": front_matter.get('title', ''),
-                "institution": front_matter.get('venue', ''),
-                "date": front_matter.get('date', ''),
-                "role": front_matter.get('type', ''),
+
+            # Extract recommendation details
+            recommendation_entry = {
+                "title": front_matter.get('title', ''),
+                "author": front_matter.get('author', ''),  # optional, if you use `author`
+                "date": front_matter.get('date', ''),  # optional, if you use `date`
+                "type": front_matter.get('type', ''),  # optional, if you use `type`
                 "description": front_matter.get('excerpt', '')
             }
-            
-            teaching.append(teaching_entry)
-    
-    return teaching
+
+            recommendations.append(recommendation_entry)
+
+    return recommendations
 
 def parse_portfolio(portfolio_dir):
     """Parse portfolio items from the _portfolio directory."""
@@ -393,8 +394,8 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     cv_json["presentations"] = parse_talks(os.path.join(repo_root, "_talks"))
     
     # Add teaching
-    cv_json["teaching"] = parse_teaching(os.path.join(repo_root, "_teaching"))
-    
+    cv_json["recommendations"] = parse_recommendations(os.path.join(repo_root, "_recommendations"))
+
     # Add portfolio
     cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "_portfolio"))
     
