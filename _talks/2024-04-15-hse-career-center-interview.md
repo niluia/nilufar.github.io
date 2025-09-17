@@ -21,4 +21,4 @@ I was interviewed by the **HSE Career Center** as a successful student and activ
 
 Read the full interview here: [HSE Career Center Interview](https://spb.hse.ru/career/interviewyangiboeva)
 
-![HSE Career Center](https://www.hse.ru/data/2022/10/26/1882849064/logo_engl_color.svg)
+![HSE Career Center](/images/hse.jpg)
