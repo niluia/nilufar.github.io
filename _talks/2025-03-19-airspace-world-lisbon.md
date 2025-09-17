@@ -24,4 +24,4 @@ I was honored to receive an invitation to present my academic research, *Passeng
 [🔗 LinkedIn post about my participation](https://www.linkedin.com/posts/marilea-laviola-a46baa146_one-of-the-longest-posts-ive-ever-written-ugcPost-7332678711630102529-CM_U?utm_source=share&utm_medium=member_desktop&rcm=ACoAADne92YBPQ6070FrUZfMelWIk02NvH5Ho3A)  
 [🌐 Event website](https://airspaceworld.com/)
 
-![Airspace World Logo](https://airspaceworld.com/wp-content/themes/airspaceworld/images/logo.svg)
+![Airspace World 2025 Promo](/images/airspace-world-2025-promo.jpg)
