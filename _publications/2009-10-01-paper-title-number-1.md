@@ -11,4 +11,14 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+---
+title: "Narrowing the gender gap in youth entrepreneurship in Russia: The role of university education and environment"
+collection: publications
+permalink: /publication/2024-narrowing-gender-gap
+date: 2024-06-01
+authors: "Uskova, A., Iangiboeva, N., Shirokova, G., & Bodolica, V."
+journal: "Equality, Diversity and Inclusion: An International Journal, Emerald Group Publishing Limited"
+doi: "10.1108/EDI-03-2024-0102"
+url_pdf: "https://doi.org/10.1108/EDI-03-2024-0102"
+---
+This paper explores the impact of university education and environment on narrowing the gender gap in youth entrepreneurship in Russia.
