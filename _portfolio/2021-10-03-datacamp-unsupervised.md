@@ -1,6 +1,6 @@
 ---
 title: "Statement of Accomplishment: Unsupervised Learning in Python"
-excerpt: "Statement of accomplishment – Unsupervised Learning in Python (DataCamp)<br/><img src='/images/datacamp-unsupervised.png'>"
+excerpt: "Statement of accomplishment – Unsupervised Learning in Python (DataCamp)."
 collection: portfolio
 ---
 
@@ -11,3 +11,4 @@ collection: portfolio
 **Date:** October 3, 2021
 
 [📄 View Statement PDF](/files/DataCamp_un.pdf)
+<img src='/images/datacamp.png' width='80' alt='DataCamp Logo' style='display: block; margin: 0 auto;'>
