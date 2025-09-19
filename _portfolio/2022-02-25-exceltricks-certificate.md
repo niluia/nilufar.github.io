@@ -1,6 +1,6 @@
 ---
 title: "Certificate: ExcelTricks from KPMG"
-excerpt: "Certificate of completion – ExcelTricks<br/>Score: 92%<br/>Issued by KPMG, Russia & CIS<br/><img src='/images/exceltricks-certificate.png'>"
+excerpt: "University project: Neural Network to predict inclusion in Spotify’s Top 200/Viral 50<br/><img src='/images/kpmg.png' style='width: 60px; height: auto;'>"
 collection: portfolio
 ---
 
