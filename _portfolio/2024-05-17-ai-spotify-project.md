@@ -1,6 +1,6 @@
 ---
 title: "AI Project: Predicting Spotify Chart Success"
-excerpt: "University project: Neural Network to predict inclusion in Spotify's Top 200/Viral 50<br/><img src='/images/spotify-ai-project.png'>"
+excerpt: "University project: Neural Network to predict inclusion in Spotify's Top 200/Viral 50<br/><img src='/images/spotify.png'>"
 collection: portfolio
 ---
 
