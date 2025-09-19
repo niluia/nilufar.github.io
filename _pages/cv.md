@@ -64,10 +64,10 @@ Talks
 {% endfor %}
 </ul>
 
-Teaching
+Recommendations
 ======
 <ul>
-{% for post in site.teaching reversed %}
+{% for post in site.recommendations reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
