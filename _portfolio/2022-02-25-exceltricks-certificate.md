@@ -13,4 +13,4 @@ successfully completed the training course **ExcelTricks**
 
 [📄 View Certificate PDF](/files/KPMG_certificate.pdf)
 
-<img src='/images/kpmg.png' alt='DataCamp Logo' style='float: left; margin: 0 1rem 1rem 0; width: 200px;'>
+<img src='/images/kpmg.png' alt='KPMG Logo' style='float: left; margin: 0 1rem 1rem 0; width: 200px;'>

@@ -11,3 +11,5 @@ from SelfMama, a leading Russian initiative supporting women in business and fam
 *For more info, see [SelfMama website](https://selfmama.ru/).*
 
 [📄 View Certificate PDF](/files/Self_mama_project.pdf)
+
+<img src='/images/selfmama.png' alt='SelfMama Logo' style='float: left; margin: 0 1rem 1rem 0; width: 200px;'>

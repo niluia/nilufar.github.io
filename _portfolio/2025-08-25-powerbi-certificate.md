@@ -11,3 +11,5 @@ collection: portfolio
 *Successfully completed this online course authorized by Microsoft and offered through Coursera.*
 
 [📄 View Certificate PDF](/files/powerbi-certificate.pdf)
+
+<img src='/images/microssoft.png' alt='Microsoft Logo' style='float: left; margin: 0 1rem 1rem 0; width: 200px;'>

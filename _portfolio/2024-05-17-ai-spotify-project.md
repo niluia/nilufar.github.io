@@ -24,3 +24,5 @@ collection: portfolio
 - Practical strategies for artists and industry professionals
 
 [📄 View Project Report PDF](/files/AI_project_Iangiboeva.pdf)
+
+<img src='/images/spotify.png' alt='Spotify Logo' style='float: left; margin: 0 1rem 1rem 0; width: 200px;'>

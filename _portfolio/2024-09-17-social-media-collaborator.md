@@ -13,3 +13,5 @@ collection: portfolio
 Responsibilities include managing social media, organizing events, and overseeing communications for university projects.
 
 [📄 View Portfolio PDF](/files/portfolio presentation.pdf)
+
+<img src='/images/cafoscari.png' alt='Ca Foscari Logo' style='float: left; margin: 0 1rem 1rem 0; width: 200px;'>

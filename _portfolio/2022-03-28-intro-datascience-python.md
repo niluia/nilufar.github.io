@@ -12,3 +12,5 @@ collection: portfolio
 *Completed this online course (Russian language certificate).*
 
 [📄 View Certificate PDF](/files/Coursera_MichiganUnivercity.pdf)
+
+<img src='/images/michigan.png' alt='Michigan Logo' style='float: left; margin: 0 1rem 1rem 0; width: 200px;'>

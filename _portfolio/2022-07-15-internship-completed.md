@@ -11,3 +11,5 @@ completed a summer internship in the Administration of the General Director at B
 *Deputy General Director for HR: Alexandra Sergeevna Arendar*
 
 [📄 View Diploma PDF](/files/Inter_biocad.pdf)
+
+<img src='/images/biocad.png' alt='BIOCAD Logo' style='float: left; margin: 0 1rem 1rem 0; width: 200px;'>

@@ -10,3 +10,5 @@ collection: portfolio
 **Statement ID:** #21,112,350
 
 [📄 View Statement PDF](/files/DataCamp.pdf)
+
+<img src='/images/datacamp.png' alt='DataCamp Logo' style='float: left; margin: 0 1rem 1rem 0; width: 200px;'>
