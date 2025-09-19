@@ -1,6 +1,6 @@
 ---
 title: "Portfolio: Social Media, Communication, and Events Collaborator"
-excerpt: "Manager of Collaborators at “Ca’ Foscari on the Map”<br/>Jan 2024–Present, Venice, Italy (Remote)<br/><img src='/images/cafoscari-collab.png'>"
+excerpt: "Manager of Collaborators at “Ca’ Foscari on the Map”<br/>Jan 2024–Present, Venice, Italy (Remote)<br/><img src='/images/cafoscari.png' style='width: 80px; height: auto;'>"
 collection: portfolio
 ---
 

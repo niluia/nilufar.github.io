@@ -1,6 +1,6 @@
 ---
 title: "Statement of Accomplishment: Supervised Learning with scikit-learn"
-excerpt: "Statement of accomplishment – Supervised Learning with scikit-learn (DataCamp)<br/><img src='/images/datacamp-supervised.png'>"
+excerpt: "Statement of accomplishment – Supervised Learning with scikit-learn (DataCamp)<br/><img src='/images/datacamp.png' style='width: 80px; height: auto;'>"
 collection: portfolio
 ---
 

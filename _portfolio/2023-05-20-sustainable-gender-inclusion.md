@@ -1,6 +1,6 @@
 ---
 title: "Certificate: Sustainable Business Development – Gender Inclusion"
-excerpt: "Certificate of participation – Sustainable Business: Gender Inclusion (SelfMama)<br/><img src='/images/selfmama-certificate.png'>"
+excerpt: "Certificate of participation – Sustainable Business: Gender Inclusion (SelfMama)<br/><img src='/images/selfmama.png' style='width: 80px; height: auto;'>"
 collection: portfolio
 ---
 

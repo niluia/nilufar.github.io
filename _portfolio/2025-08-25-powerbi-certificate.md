@@ -1,6 +1,6 @@
 ---
 title: "Certificate: Data Analysis and Visualization with Power BI"
-excerpt: "Certificate of completion – Power BI<br/>Issued to Nilufar Iangiboeva by Microsoft and Coursera.<br/><img src='/images/powerbi-certificate.png'>"
+excerpt: "Certificate of completion – Power BI<br/>Issued to Nilufar Iangiboeva by Microsoft and Coursera.<br/><img src='/images/microsoft.png' style='width: 80px; height: auto;'>"
 collection: portfolio
 ---
 

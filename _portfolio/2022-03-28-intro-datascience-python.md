@@ -1,6 +1,6 @@
 ---
 title: "Certificate: Introduction to Data Science in Python"
-excerpt: "Certificate of completion – Introduction to Data Science in Python (University of Michigan, Coursera)<br/><img src='/images/umich-python-certificate.png'>"
+excerpt: "Certificate of completion – Introduction to Data Science in Python (University of Michigan, Coursera)<br/><img src='/images/michigan.png' style='width: 80px; height: auto;'>"
 collection: portfolio
 ---
 

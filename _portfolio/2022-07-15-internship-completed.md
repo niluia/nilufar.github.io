@@ -1,6 +1,6 @@
 ---
 title: "Internship Completion Diploma: Administration of General Director"
-excerpt: "Diploma of summer internship completion, General Director's Administration (BIOCAD), 2022<br/><img src='/images/biocad-internship.png'>"
+excerpt: "Diploma of summer internship completion, General Director's Administration (BIOCAD), 2022<br/><img src='/images/biocad.png' style='width: 80px; height: auto;'>"
 collection: portfolio
 ---
 
