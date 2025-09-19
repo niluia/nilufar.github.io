@@ -1,6 +1,6 @@
 ---
 title: "Certificate: ExcelTricks from KPMG"
-excerpt: "University project: Neural Network to predict inclusion in Spotify’s Top 200/Viral 50<br/><img src='/images/kpmg.png' style='width: 60px; height: auto;'>"
+excerpt: "University project: Neural Network to predict inclusion in Spotify’s Top 200/Viral 50<br/><img src='/images/kpmg.png' style='width: 80px; height: auto;'>"
 collection: portfolio
 ---
 
@@ -13,3 +13,4 @@ successfully completed the training course **ExcelTricks**
 
 [📄 View Certificate PDF](/files/KPMG_certificate.pdf)
 
+<img src='/images/kpmg.png' alt='KPMG Logo' style='float: left; margin: 0 1rem 1rem 0; width: 200px;'>
