@@ -12,3 +12,5 @@ successfully completed the training course **ExcelTricks**
 *Signed by Alevtina Borisova, Partner, Head of People in Russia and the CIS (KPMG)*
 
 [📄 View Certificate PDF](/files/KPMG_certificate.pdf)
+
+<img src='/images/kpmg.png' alt='DataCamp Logo' style='float: left; margin: 0 1rem 1rem 0; width: 200px;'>
